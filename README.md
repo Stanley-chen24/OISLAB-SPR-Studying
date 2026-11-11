@@ -1,6 +1,6 @@
 # Subpixel Rendering：從 Lu Fang 論文復刻到 GRBG MMSE SPR
 
-> OISLAB 交接專案。這份 README 是給剛接觸 SPR 的新生的**讀程式導覽**：不需要從零開始，
+> 子像素渲染專案學習，不需要從零開始，
 > 目標是能讀懂SPR流程在做什麼、為什麼這樣寫，並能跑出和本專案一致的結果。
 >
 > **起點**：復刻 Lu Fang 等人的 2-D MMSE 子像素下採樣（對角線排列面板）。
